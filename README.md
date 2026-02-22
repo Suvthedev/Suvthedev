@@ -92,8 +92,8 @@ STATUS............. Building • Breaking • Rebuilding Better
 <tr>
 <td width="45%" align="center">
 
-### 🕹 Portfolio_OS
-**Stack:** Django • HTML • CSS • JS  
+### First Portfolio Site
+**Stack:**  HTML • CSS • JS  
 
 <a href="LINK" target="_blank" rel="noopener noreferrer">
   ▶ ACCESS MODULE
@@ -102,10 +102,10 @@ STATUS............. Building • Breaking • Rebuilding Better
 </td>
 <td width="45%" align="center">
 
-### 💾 IT_Asset_Manager
+### Card Flip Game v1
 **Stack:** Electron • SQLite  
 
-<a href="LINK" target="_blank" rel="noopener noreferrer">
+<a href="https://suvthedev.github.io/FlipCardGame-v1/" target="_blank" rel="noopener noreferrer">
   ▶ ACCESS MODULE
 </a>
 
@@ -125,28 +125,6 @@ STATUS............. Building • Breaking • Rebuilding Better
 </td>
 </tr>
 
-<tr>
-<td width="45%" align="center">
-
-### 🧾 Spare_Parts_System
-**Stack:** Backend • Database  
-
-<a href="LINK" target="_blank" rel="noopener noreferrer">
-  ▶ ACCESS MODULE
-</a>
-
-</td>
-<td width="45%" align="center">
-
-### 🧪 Experimental_Module
-**Stack:** WIP  
-
-<a href="LINK" target="_blank" rel="noopener noreferrer">
-  ▶ ACCESS MODULE
-</a>
-
-</td>
-</tr>
 </table>
 </p>
 
