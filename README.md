@@ -103,7 +103,7 @@ STATUS............. Building • Breaking • Rebuilding Better
 <td width="45%" align="center">
 
 ### Card Flip Game v1
-**Stack:** Electron • SQLite  
+**Stack:**  HTML • CSS • JS  
 
 <a href="https://suvthedev.github.io/FlipCardGame-v1/" target="_blank" rel="noopener noreferrer">
   ▶ ACCESS MODULE
@@ -113,12 +113,12 @@ STATUS............. Building • Breaking • Rebuilding Better
 </tr>
 
 <tr>
-<td colspan="2" align="center">
+<td  align="center">
 
-### ⭐ Uptime_Monitor (FEATURED)
-**Stack:** Python • API  
+### Toolquip & Machinery Site
+**Stack:**  HTML • CSS • JS  
 
-<a href="LINK" target="_blank" rel="noopener noreferrer">
+<a href=["LINK"](https://toolquipmachinery.github.io/site/) target="_blank" rel="noopener noreferrer">
   ▶ ACCESS MODULE
 </a>
 
