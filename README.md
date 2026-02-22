@@ -81,6 +81,74 @@ STATUS............. Building • Breaking • Rebuilding Better
   <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00EAFF"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00EAFF,100:FF003C&height=3&section=header" width="80%"/>
+</p>
+
+# ◉ PROJECT_ARCHIVE.log
+
+<p align="center">
+<table>
+<tr>
+<td width="45%" align="center">
+
+### 🕹 Portfolio_OS
+**Stack:** Django • HTML • CSS • JS  
+
+<a href="LINK" target="_blank" rel="noopener noreferrer">
+  ▶ ACCESS MODULE
+</a>
+
+</td>
+<td width="45%" align="center">
+
+### 💾 IT_Asset_Manager
+**Stack:** Electron • SQLite  
+
+<a href="LINK" target="_blank" rel="noopener noreferrer">
+  ▶ ACCESS MODULE
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### ⭐ Uptime_Monitor (FEATURED)
+**Stack:** Python • API  
+
+<a href="LINK" target="_blank" rel="noopener noreferrer">
+  ▶ ACCESS MODULE
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="45%" align="center">
+
+### 🧾 Spare_Parts_System
+**Stack:** Backend • Database  
+
+<a href="LINK" target="_blank" rel="noopener noreferrer">
+  ▶ ACCESS MODULE
+</a>
+
+</td>
+<td width="45%" align="center">
+
+### 🧪 Experimental_Module
+**Stack:** WIP  
+
+<a href="LINK" target="_blank" rel="noopener noreferrer">
+  ▶ ACCESS MODULE
+</a>
+
+</td>
+</tr>
+</table>
+</p>
 
 
 
