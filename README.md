@@ -95,7 +95,7 @@ STATUS............. Building • Breaking • Rebuilding Better
 ### First Portfolio Site
 **Stack:**  HTML • CSS • JS  
 
-<a href="LINK" target="_blank" rel="noopener noreferrer">
+<a href="https://suvthedev.github.io/SuvthedevFirstSite/" target="_blank" rel="noopener noreferrer">
   ▶ ACCESS MODULE
 </a>
 
