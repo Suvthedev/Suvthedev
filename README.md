@@ -118,7 +118,7 @@ STATUS............. Building • Breaking • Rebuilding Better
 ### Toolquip & Machinery Site
 **Stack:**  HTML • CSS • JS  
 
-<a href=["LINK"](https://toolquipmachinery.github.io/site/) target="_blank" rel="noopener noreferrer">
+<a href="https://toolquipmachinery.github.io/site/" target="_blank" rel="noopener noreferrer">
   ▶ ACCESS MODULE
 </a>
 
