@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1800&pause=600&color=FF003C&center=true&vCenter=true&width=800&lines=%3E%3E+Initializing+Github+Interface;%3E%3E+Suven.exe+Loaded;%3E%3E+Software+Developer+sequence+initiated" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=32&duration=1800&pause=600&color=FF003C&center=true&vCenter=true&width=800&lines=%3E%3E+Initializing+Github+Interface;%3E%3E+Suven.exe+Loaded;%3E%3E+Software+Developer+sequence+initiated" />
 </p>
 
 <p align="center">
